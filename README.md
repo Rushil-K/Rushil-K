@@ -35,8 +35,6 @@
 
 ## About Me
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="15%" style="padding-left: 15px;">
-
 I'm a **PGDM** student in **Big Data Analytics** at the **FORE School of Management**, New Delhi (2024-2026), with a strong commerce background. I'm passionate about bridging business insights with data-driven decision making.
 
 My journey is driven by curiosity and a commitment to solving complex business problems through analytical approaches. I specialize in transforming raw information into meaningful business insights using various analytical tools and techniques.
@@ -140,7 +138,7 @@ I bring a practical, business-oriented approach to every project — combining b
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
   ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
   
-  ### Machine Learning
+  ### Machine Learning | Deep Learning
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
   ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
