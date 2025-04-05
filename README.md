@@ -37,11 +37,6 @@ Hi, I'm **Rushil Kohli**, a PGDM student in **Big Data Analytics** at the **FORE
 
 <p align="center">
 
-  <!-- Summer Projects -->
-  <a href="https://github.com/Rushil-K/Summer_Projects" target="_blank">
-    <img src="https://img.shields.io/badge/Summer_Projects-A9A9F5?style=for-the-badge&logo=github&logoColor=white" alt="Summer Projects">
-  </a>
-
   <!-- Deep Learning -->
   <a href="https://github.com/Rushil-K/Deep-Learning" target="_blank">
     <img src="https://img.shields.io/badge/Deep_Learning-FF6F91?style=for-the-badge&logo=python&logoColor=white" alt="Deep Learning">
@@ -55,6 +50,11 @@ Hi, I'm **Rushil Kohli**, a PGDM student in **Big Data Analytics** at the **FORE
   <!-- TECHNOVATE Hackathon -->
   <a href="https://github.com/Rushil-K/TECHNOVATE_Hackathon" target="_blank">
     <img src="https://img.shields.io/badge/TECHNOVATE_Hackathon-5F9EA0?style=for-the-badge&logo=hackthebox&logoColor=white" alt="TECHNOVATE Hackathon">
+  </a>
+
+  <!-- Summer Projects -->
+  <a href="https://github.com/Rushil-K/Summer_Projects" target="_blank">
+    <img src="https://img.shields.io/badge/Summer_Projects-A9A9F5?style=for-the-badge&logo=github&logoColor=white" alt="Summer Projects">
   </a>
 
 </p>
