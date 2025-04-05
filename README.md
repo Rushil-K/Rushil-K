@@ -2,6 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00A9FF&center=true&vCenter=true&width=800&lines=RUSHIL+KOHLI;PGDM+STUDENT+%7C+BIG+DATA+ANALYTICS" alt="Animated Name and Title" />
 </h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=00A9FF&center=true&vCenter=true&width=800&lines=TO+INFINITY+AND+BEYOND+!;TURNING+DATA+INTO+INTELLIGENCE;COMBINING+COMMERCE+AND+ANALYTICS" alt="Animated Motto" />
+</p>
+
+<div align="center">
+
 <div align="center">
   <a href="https://linkedin.com/in/rushilkohli14"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:055027@fsm.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -9,12 +15,6 @@
 </div>
 
 <br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=00A9FF&center=true&vCenter=true&width=800&lines=TO+INFINITY+AND+BEYOND+!;TURNING+DATA+INTO+INTELLIGENCE;COMBINING+COMMERCE+AND+ANALYTICS" alt="Animated Motto" />
-</p>
-
-<div align="center">
   
   ![Visitor Count](https://komarev.com/ghpvc/?username=Rushil-K&color=00A9FF&style=flat-square&label=Profile+Views)
   
@@ -50,10 +50,11 @@ My journey is driven by curiosity and a commitment to solving complex business p
 - Conducting data collection pipelines with **BeautifulSoup** and **Selenium** for business intelligence
 - Implementing financial analysis and market research through data-driven methodologies
 - Translating technical analytics into actionable business recommendations
+- Critical Out of The Box Thinking
 
 </details>
 
-I bring a practical, commerce-oriented approach to every project — combining business acumen with analytical skills to deliver valuable insights for decision-making.
+I bring a practical, business-oriented approach to every project — combining business acumen with analytical skills to deliver valuable insights for decision-making.
 
 <!-- Animated divider -->
 <p align="center">
