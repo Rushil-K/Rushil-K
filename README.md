@@ -17,7 +17,7 @@
 
 ## About Me
 
-Hi, I'm **Rushil Kohli**, a PGDM candidate in **Big Data Analytics** at **FORE School of Management**, New Delhi. I specialize in **AI-driven solutions**, from deep learning to data pipelines, and love building aesthetically pleasing and scalable tools with real impact.
+Hi, I'm **Rushil Kohli**, a PGDM student in **Big Data Analytics** at the **FORE School of Management**, New Delhi.
 
 ---
 
