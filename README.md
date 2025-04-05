@@ -17,7 +17,7 @@
 
 ## About Me
 
-Hi, I'm **Rushil Kohli**, a PGDM student in **Big Data Analytics** at the **FORE School of Management**, New Delhi.
+Hi, I'm **Rushil Kohli**, a PGDM student in **Big Data Analytics** at the **FORE School of Management**, New Delhi (Batch 2024-2026).
 
 ---
 
