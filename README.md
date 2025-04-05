@@ -18,6 +18,17 @@
 ## About Me
 
 Hi, I'm **Rushil Kohli**, a PGDM student in **Big Data Analytics** at the **FORE School of Management**, New Delhi (Batch 2024-2026).
+With a deep interest in data-driven problem-solving, I leverage a wide array of tools and frameworks to extract insights, build scalable models, and drive strategic outcomes. My academic and project journey has been rooted in exploring complex datasets and converting them into intelligent, actionable systems through machine learning and AI.
+
+### Core Strengths:
+- Designing and training deep learning models using **ANN**, **CNN**, **RNN**, and **LSTM**
+- Building data-powered web applications and dashboards using **Streamlit**, **Excel Power Query**, and **Power BI**
+- Conducting data collection pipelines with **BeautifulSoup** and **Selenium** for real-time and large-scale datasets
+- Deploying real-world solutions through end-to-end workflows, from raw data to interactive visualization
+
+I bring a practical, hands-on approach to everything I build — from marketing intelligence systems to stock forecasting engines — each project is backed by sound statistical understanding and an engineering mindset.
+
+I’m always exploring the intersection of analytics, creativity, and storytelling — bringing clarity to complexity through data.
 
 ---
 
