@@ -33,26 +33,28 @@ Hi, I'm **Rushil Kohli**, a PGDM student in **Big Data Analytics** at the **FORE
 
 ## Featured Projects
 
+<h2 align="center">Featured Repositories</h2>
+
 <p align="center">
 
-  <a href="https://deep-learning-y9mzjiqycyib63ewyfwkgg.streamlit.app/" target="_blank">
-    <img alt="Marketing ANN" src="https://img.shields.io/badge/Marketing%20ANN-Dashboard-blueviolet?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <!-- Summer Projects -->
+  <a href="https://github.com/Rushil-K/Summer_Projects" target="_blank">
+    <img src="https://img.shields.io/badge/Summer_Projects-A9A9F5?style=for-the-badge&logo=github&logoColor=white" alt="Summer Projects">
   </a>
 
-  <a href="https://github.com/Rushil-K/NIFTY50-LSTM" target="_blank">
-    <img alt="NIFTY 50 Prediction" src="https://img.shields.io/badge/NIFTY50-LSTM%20Model-orange?style=for-the-badge&logo=python&logoColor=white" />
+  <!-- Deep Learning -->
+  <a href="https://github.com/Rushil-K/Deep-Learning" target="_blank">
+    <img src="https://img.shields.io/badge/Deep_Learning-FF6F91?style=for-the-badge&logo=python&logoColor=white" alt="Deep Learning">
   </a>
 
-  <a href="https://github.com/Rushil-K/Metacritic-Sentiment-Analysis" target="_blank">
-    <img alt="Metacritic Sentiment" src="https://img.shields.io/badge/Metacritic%20Sentiment-RNN+Scraper-yellowgreen?style=for-the-badge&logo=beautifulsoup&logoColor=white" />
+  <!-- BDMA -->
+  <a href="https://github.com/Rushil-K/BDMA" target="_blank">
+    <img src="https://img.shields.io/badge/BDMA-00BFFF?style=for-the-badge&logo=jupyter&logoColor=white" alt="BDMA">
   </a>
 
-  <a href="https://github.com/Rushil-K/MongoDB-Atlas-Charts-Dashboard" target="_blank">
-    <img alt="MongoDB Dashboard" src="https://img.shields.io/badge/MongoDB%20Atlas-Movie%20Dashboard-forestgreen?style=for-the-badge&logo=mongodb&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/Rushil-K/LinkedIn-Alumni-Scraper" target="_blank">
-    <img alt="LinkedIn Scraper" src="https://img.shields.io/badge/LinkedIn%20Scraper-Alumni%20Network-lightblue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <!-- TECHNOVATE Hackathon -->
+  <a href="https://github.com/Rushil-K/TECHNOVATE_Hackathon" target="_blank">
+    <img src="https://img.shields.io/badge/TECHNOVATE_Hackathon-5F9EA0?style=for-the-badge&logo=hackthebox&logoColor=white" alt="TECHNOVATE Hackathon">
   </a>
 
 </p>
