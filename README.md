@@ -1,3 +1,64 @@
+<h1 align="center">
+  <strong>Rushil Kohli</strong>
+</h1>
+
+<h3 align="center">
+  PGDM Student in Big Data Analytics at the FORE School of Management
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00A9FF&center=true&vCenter=true&width=800&lines=TO+INFINITY+AND+BEYOND+!" alt="Animated Motto" />
+</p>
+
+
+
+
+---
+
+## About Me
+
+Hi, I'm **Rushil Kohli**, a PGDM candidate in **Big Data Analytics** at **FORE School of Management**, New Delhi. I specialize in **AI-driven solutions**, from deep learning to data pipelines, and love building aesthetically pleasing and scalable tools with real impact.
+
+---
+
+## Resume
+
+<p align="center">
+  <a href="https://drive.google.com/your-resume-link-here" target="_blank">
+    <img src="https://img.shields.io/badge/View_Resume-on_Google_Drive-blue?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## Featured Projects
+
+<p align="center">
+
+  <a href="https://deep-learning-y9mzjiqycyib63ewyfwkgg.streamlit.app/" target="_blank">
+    <img alt="Marketing ANN" src="https://img.shields.io/badge/Marketing%20ANN-Dashboard-blueviolet?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Rushil-K/NIFTY50-LSTM" target="_blank">
+    <img alt="NIFTY 50 Prediction" src="https://img.shields.io/badge/NIFTY50-LSTM%20Model-orange?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Rushil-K/Metacritic-Sentiment-Analysis" target="_blank">
+    <img alt="Metacritic Sentiment" src="https://img.shields.io/badge/Metacritic%20Sentiment-RNN+Scraper-yellowgreen?style=for-the-badge&logo=beautifulsoup&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Rushil-K/MongoDB-Atlas-Charts-Dashboard" target="_blank">
+    <img alt="MongoDB Dashboard" src="https://img.shields.io/badge/MongoDB%20Atlas-Movie%20Dashboard-forestgreen?style=for-the-badge&logo=mongodb&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Rushil-K/LinkedIn-Alumni-Scraper" target="_blank">
+    <img alt="LinkedIn Scraper" src="https://img.shields.io/badge/LinkedIn%20Scraper-Alumni%20Network-lightblue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+</p>
+
+---
+
 
 
 
