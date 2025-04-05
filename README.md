@@ -24,7 +24,7 @@ Hi, I'm **Rushil Kohli**, a PGDM student in **Big Data Analytics** at the **FORE
 ## Resume
 
 <p align="center">
-  <a href="https://drive.google.com/your-resume-link-here" target="_blank">
+  <a href="[https://drive.google.com/your-resume-link-here](https://drive.google.com/file/d/1eDG5uDATY6Lw9BB9F96_aok3TlYHebY_/view?usp=sharing)" target="_blank">
     <img src="https://img.shields.io/badge/View_Resume-on_Google_Drive-blue?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
