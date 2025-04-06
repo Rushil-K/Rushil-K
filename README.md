@@ -26,7 +26,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Rushil-K&theme=algolia&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" width="100%" />
 </div>
 
----
 
 <!-- Animated divider -->
 <p align="center">
