@@ -58,7 +58,7 @@ I thrive in **cross-functional projects**. My vision is to **translate complex d
             <img src="https://img.shields.io/badge/Repo-2986cc?style=for-the-badge&logo=github&logoColor=white" alt="Deep Learning Repo"/>
           </a>
         </p>
-        <p align="center">A collection of deep learning projects exploring neural networks for business analytics and forecasting applications.</p>
+        <p align="justify">A collection of deep learning projects exploring neural networks for business analytics and forecasting applications.</p>
       </td>
       <td width="50%">
         <h3 align="center">BDMA Projects</h3>
@@ -67,7 +67,7 @@ I thrive in **cross-functional projects**. My vision is to **translate complex d
             <img src="https://img.shields.io/badge/Repo-2986cc?style=for-the-badge&logo=github&logoColor=white" alt="BDMA Repo"/>
           </a>
         </p>
-        <p align="center">Big Data Management & Analytics projects featuring data processing pipelines, predictive modeling, and business intelligence.</p>
+        <p align="justify">Big Data Management & Analytics projects featuring data processing pipelines, predictive modeling, and business intelligence.</p>
       </td>
     </tr>
     <tr>
@@ -78,7 +78,7 @@ I thrive in **cross-functional projects**. My vision is to **translate complex d
             <img src="https://img.shields.io/badge/Repo-2986cc?style=for-the-badge&logo=github&logoColor=white" alt="Hackathon Repo"/>
           </a>
         </p>
-        <p align="center">Award-winning solutions developed during hackathon events, showcasing rapid prototyping and innovative problem-solving.</p>
+        <p align="justify">Award-winning solutions developed during hackathon events, showcasing rapid prototyping and innovative problem-solving.</p>
       </td>
       <td width="50%">
         <h3 align="center">Achievements and Certifications</h3>
@@ -87,7 +87,7 @@ I thrive in **cross-functional projects**. My vision is to **translate complex d
             <img src="https://img.shields.io/badge/Repo-2986cc?style=for-the-badge&logo=github&logoColor=white" alt="Achievements and Certificates Repo"/>
           </a>
         </p>
-        <p align="center">Awards, Achievements and Certificates received.</p>
+        <p align="justify">Awards, Achievements and Certificates received.</p>
       </td>
     </tr>
   </table>
@@ -99,6 +99,8 @@ I thrive in **cross-functional projects**. My vision is to **translate complex d
   
 ## Tech Stack
 
+<div align="center">
+
 ### Artificial Intelligence & Analytics
 
 <div align="center">
@@ -108,7 +110,6 @@ I thrive in **cross-functional projects**. My vision is to **translate complex d
 ![LLMs](https://img.shields.io/badge/LLMs-2986cc?style=for-the-badge&logo=google&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-2986cc?style=for-the-badge&logo=databricks&logoColor=white)
 
-<div align="left">
 
 ### Business Intelligence & Visualization
 
@@ -118,7 +119,6 @@ I thrive in **cross-functional projects**. My vision is to **translate complex d
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-2986cc?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-2986cc?style=for-the-badge&logo=streamlit&logoColor=white)
 
-<div align="left">
 
 ### Development & Design
 
@@ -127,8 +127,6 @@ I thrive in **cross-functional projects**. My vision is to **translate complex d
 ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-2986cc?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-2986cc?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-2986cc?style=for-the-badge&logo=canva&logoColor=white)
-
-</div>
 
 </div>
 
@@ -141,6 +139,6 @@ I thrive in **cross-functional projects**. My vision is to **translate complex d
 </div>
 
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2986cc&height=100&section=footer&width=100%" style="display:block;width:100%;margin:0;padding:0;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2986cc&height=120&section=footer&width=100%" style="display:block;width:100%;margin:0;padding:0;"/>
 </div>
 
