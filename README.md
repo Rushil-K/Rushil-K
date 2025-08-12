@@ -1,7 +1,7 @@
 <div align="center">
   
-# RUSHIL KOHLI  
-PGDM(ISA) | Big Data Analytics and Marketing  
+# Rushil Kohli <br> PGDM(ISA) | Big Data Analytics and Marketing
+  
 
 <div align="center">
 
@@ -19,7 +19,7 @@ PGDM(ISA) | Big Data Analytics and Marketing
 
 </div>
 
-<div align="left">
+<div align="justify">
   
 ## About Me
 
@@ -130,7 +130,9 @@ I thrive in **cross-functional projects**. My vision is to **translate complex d
 
 </div>
 
----
+</div>
+
+<br>
 
 <div align="center">
 
