@@ -1,89 +1,61 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00A9FF&center=true&vCenter=true&width=800&lines=RUSHIL+KOHLI;PGDM+STUDENT+%7C+BIG+DATA+ANALYTICS" alt="Animated Name and Title" />
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=00A9FF&center=true&vCenter=true&width=800&lines=TO+INFINITY+AND+BEYOND+!;TURNING+DATA+INTO+INTELLIGENCE;COMBINING+COMMERCE+AND+ANALYTICS" alt="Animated Motto" />
-</p>
-
 <div align="center">
-
-<div align="center">
-  <a href="https://linkedin.com/in/rushilkohli14"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:055027@fsm.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://drive.google.com/file/d/1DnTsEM4A0dXuwpW_sKq1B7qpHmvfhllR/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/ Resume-00A9FF?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
-</div>
-
-<br>
   
-  ![Visitor Count](https://komarev.com/ghpvc/?username=Rushil-K&color=00A9FF&style=flat-square&label=Profile+Views)
-  
-</div>
-
-<br>
+# RUSHIL KOHLI  
+PGDM(ISA) | Big Data Analytics and Marketing  
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rushil-K&theme=algolia&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" width="100%" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=2986cc&center=true&vCenter=true&width=800&lines=Turning+Data+Into+Actionable+Insights;Analytics+%26+Marketing+Professional;Bridging+Business+and+Technology)](https://git.io/typing-svg)
+
 </div>
 
+<div align="center">
 
-<!-- Animated divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="100%">
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2986cc?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushilkohli14)
+[![Email](https://img.shields.io/badge/Email-2986cc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:055027@fsm.ac.in)
+[![Resume](https://img.shields.io/badge/RESUME-2986cc?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=2986cc)](https://drive.google.com/file/d/1DnTsEM4A0dXuwpW_sKq1B7qpHmvfhllR/view?usp=sharing)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Rushil-K&color=2986cc&style=for-the-badge&label=Profile+Views)
+
+</div>
+
+<div align="left">
+  
 ## About Me
 
-I'm a **PGDM** student in **Big Data Analytics** at the **FORE School of Management**, New Delhi (2024-2026), with a strong commerce background. I'm passionate about bridging business insights with data-driven decision making.
+**PGDM Student** specializing in **Big Data Analytics & Marketing**  
+**FORE School of Management**, New Delhi (2024-2026)  
 
-My journey is driven by curiosity and a commitment to solving complex business problems through analytical approaches. I specialize in transforming raw information into meaningful business insights using various analytical tools and techniques.
+I am an aspiring **analyst proficient in data analytics and marketing**, with a **solid foundation in commerce, statistical analysis, and strategic decision-making**. My expertise spans **KPI development, anomaly detection, workflow automation**, and crafting **AI-driven insights** using Python, Power BI, Excel, and Large Language Models. I excel at transforming raw data into compelling **stories and dashboards** that empower decision-making.  
 
+I bring a unique blend of **technical analytics skills** and **business acumen**. With hands-on experience in **generative AI, machine learning, deep learning and business intelligence tools**, I aim to create **data solutions that are both technically robust and strategically impactful**.  
+
+I thrive in **cross-functional projects**. My vision is to **translate complex data into clear strategies** that drive business growth and innovation.
+
+### Core Strengths
 <details>
-<summary><b>Core Strengths</b></summary>
-<br>
+<summary>Click to Expand</summary>
 
-- Analyzing and interpreting complex datasets using statistical methods
-- Building data-powered dashboards using **Excel Power Query** and **Power BI**
-- Conducting data collection pipelines with **BeautifulSoup** and **Selenium** for business intelligence
-- Implementing financial analysis and market research through data-driven methodologies
-- Translating technical analytics into actionable business recommendations
-- Critical Out of The Box Thinking
+- **Advanced Statistical Analysis** – Python, SQL, and Excel for complex modeling  
+- **Interactive Dashboard Development** – Power BI, Streamlit  
+- **AI & Machine Learning** – Model building, LLMs, RAG systems  
+- **Process Automation** – Workflow optimization in Excel & Python  
+- **Marketing Analytics** – Campaign analysis & performance optimization  
+- **Business Intelligence** – Transforming raw data into strategic insights  
+- **UI/UX Design** – Figma, Canva, Generative AI for intuitive interfaces  
+- **Data Storytelling** – Clear narratives for stakeholder communication  
 
 </details>
 
-I bring a practical, business-oriented approach to every project — combining business acumen with analytical skills to deliver valuable insights for decision-making.
-
-<!-- Animated divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="100%">
-</p>
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rushil-K&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=32" width="49%" alt="Rushil's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushil-K&theme=algolia&hide_border=true&layout=compact&langs_count=8" width="49%" alt="Rushil's Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Rushil-K&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="98%" alt="Streak Stats" />
-</div>
-
-<!-- Animated divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="100%">
-</p>
-
 ## Featured Projects
-
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%">
-        <h3 align="center">Deep Learning Portfolio</h3>
+        <h3 align="center">Deep Learning Projects</h3>
         <p align="center">
           <a href="https://github.com/Rushil-K/Deep-Learning" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Deep Learning Repo"/>
+            <img src="https://img.shields.io/badge/Repo-2986cc?style=for-the-badge&logo=github&logoColor=white" alt="Deep Learning Repo"/>
           </a>
         </p>
         <p align="center">A collection of deep learning projects exploring neural networks for business analytics and forecasting applications.</p>
@@ -92,7 +64,7 @@ I bring a practical, business-oriented approach to every project — combining b
         <h3 align="center">BDMA Projects</h3>
         <p align="center">
           <a href="https://github.com/Rushil-K/BDMA" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="BDMA Repo"/>
+            <img src="https://img.shields.io/badge/Repo-2986cc?style=for-the-badge&logo=github&logoColor=white" alt="BDMA Repo"/>
           </a>
         </p>
         <p align="center">Big Data Management & Analytics projects featuring data processing pipelines, predictive modeling, and business intelligence.</p>
@@ -103,74 +75,70 @@ I bring a practical, business-oriented approach to every project — combining b
         <h3 align="center">TECHNOVATE Hackathon</h3>
         <p align="center">
           <a href="https://github.com/Rushil-K/TECHNOVATE_Hackathon" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Hackathon Repo"/>
+            <img src="https://img.shields.io/badge/Repo-2986cc?style=for-the-badge&logo=github&logoColor=white" alt="Hackathon Repo"/>
           </a>
         </p>
         <p align="center">Award-winning solutions developed during hackathon events, showcasing rapid prototyping and innovative problem-solving.</p>
       </td>
       <td width="50%">
-        <h3 align="center">Summer Projects</h3>
+        <h3 align="center">Achievements and Certifications</h3>
         <p align="center">
-          <a href="https://github.com/Rushil-K/Summer_Projects" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Summer Projects Repo"/>
+          <a href="https://github.com/Rushil-K/" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-2986cc?style=for-the-badge&logo=github&logoColor=white" alt="Achievements and Certificates Repo"/>
           </a>
         </p>
-        <p align="center">Personal projects exploring business analytics, financial modeling, and data visualization techniques.</p>
+        <p align="center">Awards, Achievements and Certificates received.</p>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Animated divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="100%">
-</p>
+</div>
 
+<div align="left">
+  
 ## Tech Stack
 
-<div align="center">
+### Artificial Intelligence & Analytics
 
-  ### Analytics & Data Processing
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<div align="center">
   
-  ### Machine Learning | Deep Learning
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-2986cc?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2986cc?style=for-the-badge&logo=python&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-2986cc?style=for-the-badge&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-2986cc?style=for-the-badge&logo=databricks&logoColor=white)
+
+<div align="left">
+
+### Business Intelligence & Visualization
+
+<div align="center">
   
-  ### Databases
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-2986cc?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-2986cc?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-2986cc?style=for-the-badge&logo=streamlit&logoColor=white)
+
+<div align="left">
+
+### Development & Design
+
+<div align="center">
   
-  ### Tools & Platforms
-  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-  ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
+![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-2986cc?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-2986cc?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-2986cc?style=for-the-badge&logo=canva&logoColor=white)
 
 </div>
 
-<!-- Animated divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="100%">
-</p>
-
-## Activity Graph
+---
 
 <div align="center">
-  <img alt="Rushil's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Rushil-K&theme=react-dark&hide_border=true" width="98%" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2986cc&center=true&vCenter=true&width=800&lines=Thanks+for+visiting;Let's+connect+and+build+impactful+solutions;Always+learning%2C+always+growing)](https://git.io/typing-svg)
+
 </div>
 
-<!-- Animated divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="100%">
-</p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00A9FF&center=true&vCenter=true&width=800&lines=Let's+connect+and+build+something+amazing+together!" alt="Closing Animation" />
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2986cc&height=100&section=footer&width=100%" style="display:block;width:100%;margin:0;padding:0;"/>
 </div>
+
