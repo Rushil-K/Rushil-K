@@ -83,7 +83,7 @@ I thrive in **cross-functional projects**. My vision is to **translate complex d
       <td width="50%">
         <h3 align="center">Achievements and Certifications</h3>
         <p align="center">
-          <a href="https://github.com/Rushil-K/" target="_blank">
+          <a href="https://github.com/Rushil-K/Achievements-and-Certifications" target="_blank">
             <img src="https://img.shields.io/badge/Repo-2986cc?style=for-the-badge&logo=github&logoColor=white" alt="Achievements and Certificates Repo"/>
           </a>
         </p>
