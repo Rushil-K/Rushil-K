@@ -50,6 +50,15 @@ I thrive in **cross-functional projects**. My vision is to **translate complex d
   <table border="0">
     <tr>
       <td width="50%">
+        <h3 align="center">Portfolio of Rushil Kohli</h3>
+        <p align="center">
+          <a href="https://github.com/Rushil-K/Portfolio" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-2986cc?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Repo"/>
+          </a>
+        </p>
+        <p align="left">Awards, Achievements and Certificates received.</p>
+      </td>
+      <td width="50%">
         <h3 align="center">Deep Learning Projects</h3>
         <p align="center">
           <a href="https://github.com/Rushil-K/Deep-Learning" target="_blank">
@@ -58,6 +67,8 @@ I thrive in **cross-functional projects**. My vision is to **translate complex d
         </p>
         <p align="left">A collection of deep learning projects exploring neural networks for business analytics and forecasting applications.</p>
       </td>
+    </tr>
+    <tr>
       <td width="50%">
         <h3 align="center">BDMA Projects</h3>
         <p align="center">
@@ -67,8 +78,6 @@ I thrive in **cross-functional projects**. My vision is to **translate complex d
         </p>
         <p align="left">Big Data Management & Analytics projects featuring data processing pipelines, predictive modeling, and business intelligence.</p>
       </td>
-    </tr>
-    <tr>
       <td width="50%">
         <h3 align="center">TECHNOVATE Hackathon</h3>
         <p align="center">
@@ -78,20 +87,10 @@ I thrive in **cross-functional projects**. My vision is to **translate complex d
         </p>
         <p align="left">Award-winning solution developed during the TECHNOVATE Hackathon, showcasing rapid prototyping and innovative problem-solving.</p>
       </td>
-      <td width="50%">
-        <h3 align="center">Portfolio of Rushil Kohli</h3>
-        <p align="center">
-          <a href="https://github.com/Rushil-K/Portfolio" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-2986cc?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Repo"/>
-          </a>
-        </p>
-        <p align="left">Awards, Achievements and Certificates received.</p>
-      </td>
     </tr>
   </table>
 </div>
 
-</div>
 
 <div align="left">
   
