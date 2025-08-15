@@ -1,10 +1,8 @@
 <div align="center">
   
-# Rushil Kohli <br> 
+# **Rushil Kohli** <br> 
 PGDM(ISA) | Big Data Analytics and Marketing
   
-
-<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=2986cc&center=true&vCenter=true&width=800&lines=Turning+Data+Into+Actionable+Insights;Analytics+%26+Marketing+Professional;Bridging+Business+and+Technology)](https://git.io/typing-svg)
 
@@ -24,8 +22,7 @@ PGDM(ISA) | Big Data Analytics and Marketing
   
 ## About Me
 
-**PGDM Student** specializing in **Big Data Analytics & Marketing**  
-**FORE School of Management**, New Delhi (2024-2026)  
+**PGDM Student** specializing in **Big Data Analytics & Marketing** **FORE School of Management**, New Delhi (2024-2026)  
 
 I am an aspiring **analyst proficient in data analytics and marketing**, with a **solid foundation in commerce, statistical analysis, and strategic decision-making**. My expertise spans **KPI development, anomaly detection, workflow automation**, and crafting **AI-driven insights** using Python, Power BI, Excel, and Large Language Models. I excel at transforming raw data into compelling **stories and dashboards** that empower decision-making.  
 
@@ -108,7 +105,10 @@ I thrive in **cross-functional projects**. My vision is to **translate complex d
   
 ![Generative AI](https://img.shields.io/badge/Generative_AI-2986cc?style=for-the-badge&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-2986cc?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning and Deep Learning](https://img.shields.io/badge/Machine_Learning_and_Deep_Learning-2986cc?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-2986cc?style=for-the-badge&logo=google&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-2986cc?style=for-the-badge&logo=n8n&logoColor=white)
+![Flowise](https://img.shields.io/badge/Flowise-2986cc?style=for-the-badge&logo=react&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-2986cc?style=for-the-badge&logo=databricks&logoColor=white)
 
 
@@ -128,6 +128,8 @@ I thrive in **cross-functional projects**. My vision is to **translate complex d
 ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-2986cc?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-2986cc?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-2986cc?style=for-the-badge&logo=canva&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS_Office-2986cc?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
 
 </div>
 
@@ -142,4 +144,3 @@ I thrive in **cross-functional projects**. My vision is to **translate complex d
 <div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2986cc&height=120&section=footer&width=100%" style="display:block;width:100%;margin:0;padding:0;"/>
 </div>
-
