@@ -10,7 +10,7 @@ PGDM(ISA) | Big Data Analytics and Marketing
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/Website-2986cc?style=for-the-badge&logo=website&logoColor=white&labelColor=2986cc)](https://6932a528cf8c85896c294263--tourmaline-tiramisu-736d24.netlify.app/)
+[![Website](https://img.shields.io/badge/Website-2986cc?style=for-the-badge&logo=website&logoColor=white&labelColor=2986cc)](https://6937a4ee3ef8d9b7a66af0c5--endearing-dodol-cf9f6f.netlify.app/)
 [![Resume](https://img.shields.io/badge/RESUME-2986cc?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=2986cc)](https://drive.google.com/file/d/1-hqMMfFUF5v-74ultNYWvK1Exur2riPJ/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2986cc?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushilkohli14)
 [![Email](https://img.shields.io/badge/Email-2986cc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:055027@fsm.ac.in)
